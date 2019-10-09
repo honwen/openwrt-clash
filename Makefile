@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2019-2020 chenhw2 <https://github.com/chenhw2>
+# Copyright (C) 2019-2020 honwen <https://github.com/honwen>
 #
 # This is free software, licensed under the MIT License.
 # See /LICENSE for more information.
@@ -10,7 +10,7 @@ include $(TOPDIR)/rules.mk
 PKG_NAME:=clash
 PKG_VERSION:=0.15.0
 PKG_RELEASE:=20190629
-PKG_MAINTAINER:=chenhw2 <https://github.com/chenhw2>
+PKG_MAINTAINER:=honwen <https://github.com/honwen>
 
 # OpenWrt ARCH: arm, aarch64, i386, x86_64, mips, mipsel
 # Golang ARCH: armv[5-7], armv8, 386, amd64, mips, mipsle
