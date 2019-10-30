@@ -19,7 +19,7 @@ ifeq ($(ARCH),mips)
 	PKG_ARCH:=mips-softfloat
 endif
 ifeq ($(ARCH),mipsel)
-	PKG_ARCH:=mipsle
+	PKG_ARCH:=mipsle-softfloat
 endif
 ifeq ($(ARCH),i386)
 	PKG_ARCH:=386
